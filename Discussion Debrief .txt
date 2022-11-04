@@ -1,0 +1,9 @@
+﻿1. What new insights came out of the discussion?
+One thing I did think about when I read the paper is that Browser systems could take place in the future because the android app and other kinds of apps are lightweight, supported by ChromeOS, and convenient.
+
+
+2. Was there disagreement? Why?
+While the IBOS cons team believes IBOS provides stronger debugging in security domains, the IBOS pro team disagrees, claiming this will only happen in the future.
+ 
+3. What was the consensus about the work?
+IBOS is much more secure, but browsers like Google ChromeOS, which are already very popular, lack the hardware necessary to support it, and Google lacks hardware design expertise.
